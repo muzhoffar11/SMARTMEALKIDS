@@ -1,13 +1,14 @@
 +++
-title = 'MENU ANAK USIA >1 TAHUN'
+title = 'Pancake Pisang'
 date = 2026-04-30T07:07:07+01:00
 draft = false
-author = ['Wal Muzhoffar']
-tags = ['pancake', 'makanan manis']
+author = ['Annisa Surya Salsabila']
+tags = ["MPASI", "Anak Usia 3 Tahun", "Anak Usia >5 Tahun"]
 +++
 
 
 ## Pancake Pisang
+
 Pancake pisang ini cocok untuk balita karena teksturnya lembut, rasanya manis alami dari pisang, dan tanpa tambahan gula berlebih.
 
 ---

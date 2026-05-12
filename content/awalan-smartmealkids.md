@@ -3,7 +3,7 @@ title = ''
 date = 2026-04-30T07:07:07+01:00
 draft = false
 author = ['Wal Muzhoffar']
-tags = ['12000', 'bubur']
+tags = ['smartmealkids']
 +++
 
 # 🍽️ Smart Meal Kids

@@ -1,13 +1,14 @@
 +++
-title = 'MENU MPASI'
+title = 'Bubur Pisang Manis'
 date = 2026-04-30T07:07:07+01:00
 draft = false
 author = ['Wal Muzhoffar']
-tags = ['bubur', 'makanan asin']
+tags = ['MPASI']
 +++
 
 
 ## Bubur Pisang
+
 Bubur pisang ini cocok untuk MPASI karena teksturnya lembut, mudah dicerna, dan memiliki rasa manis alami tanpa gula tambahan.
 
 ---

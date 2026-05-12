@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>#{{ .Title }}</h1>
+
+<div class="cards">
+  {{ range .Pages }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }} 
